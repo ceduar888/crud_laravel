@@ -1,0 +1,1 @@
+<img src="{{asset('img/nav-logo.png')}}" alt="Logo" style="width: auto; height: auto;">
